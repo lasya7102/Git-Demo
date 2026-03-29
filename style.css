@@ -1,0 +1,37 @@
+/* Basic page styling */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Heading */
+h1 {
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 20px;
+}
+
+/* Paragraph */
+p {
+  font-size: 16px;
+  line-height: 1.6;
+  text-align: center;
+}
+
+/* Button */
+button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
